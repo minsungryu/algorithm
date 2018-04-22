@@ -1,0 +1,7 @@
+.idea/
+SWExpertAcademy-*/
+
+*.class
+*.iml
+*.xml
+*.html
